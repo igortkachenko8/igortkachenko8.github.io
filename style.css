@@ -1,0 +1,51 @@
+img{
+    width: 100%;
+}
+.seven{
+    font-family: 'Carlito', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    font-family: 'Tinos', serif;
+    font-family: 'Yeseva One', cursive;
+    font-size: 100px;
+}
+.chudes{
+    font-family: 'Carlito', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    font-family: 'Tinos', serif;
+    font-family: 'Yeseva One', cursive;
+    font-size: 80px;
+}
+footer{
+    background-color: rgb(59, 59, 59);
+    padding-top :30px;
+    padding-bottom:  30px;
+    margin-top: 50px;
+    color: beige
+    }
+
+.socio-link{
+    color: rgb(149, 149, 149);
+    text-decoration: none;
+    margin: 10px;
+    font-size: 2rem;
+}
+
+.inst:hover{
+    color: rgb(230, 11, 120);
+}
+.fsb:hover{
+    color: blue
+}
+
+.yout:hover{
+    color: rgb(255, 0, 0);
+}
+.tw:hover{
+    color: rgb(58, 163, 255)
+}
+.bacground{
+    background: url(oboi.jpg);
+}
